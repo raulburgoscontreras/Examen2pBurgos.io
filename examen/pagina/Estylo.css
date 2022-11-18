@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+.encabezado_REBC img{
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+}
+.contenedor_REBC {
+    background-color:darkorange;
+}
+.parrafo_REBC {
+    width: 60%;
+    padding: 10px;
+    background-color: darkmagenta;
+    margin: auto;
+}
+p {
+background-color:chocolate;
+font-size: 2em;
+padding: 10px;
+color: aliceblue;
+}
+img {
+    height: auto;
+    width: 100%;
+    object-fit: cover;
+}
+h2 {
+    color: beige;
+    background-color: darkorange;
+    font-size: 3em;
+    padding: auto;
+}
+li {
+    background-color:chocolate;
+    font-size: 2em;
+    padding: 2em;
+    color: aliceblue;
+}
